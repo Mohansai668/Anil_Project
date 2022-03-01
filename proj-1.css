@@ -1,0 +1,29 @@
+
+  .nav-item-1
+    {
+        padding: 10px 15px 10px ;
+    }
+    .logo{
+      width : 70px;
+      heigh : 70px;
+      }
+.card-body
+{
+  color :blueviolet;
+}
+.bb{
+  background-color:rgba(6, 6, 54, 0.829);
+}
+.col
+{
+  color: brown;
+  text-align: center;
+}
+.sec-card
+{
+  padding: 20px 0px ;
+}
+.nav-item
+{
+  padding: 6px;
+}
